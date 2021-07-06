@@ -1,1 +1,2 @@
 Creating file for bug 6
+DB2-1
