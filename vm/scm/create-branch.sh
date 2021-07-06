@@ -23,7 +23,7 @@ echo "$(tput setaf 2) Which type of branch do you want to create?
 while :; do
   read -p "Select the type of branch you want to create: " branchOption
   [[ $branchOption =~ ^[0-9]+$ ]] || { echo "Enter a valid number"; continue; }
-  if ((branchOption >= 1 && branchOption <= 4)); then
+  if ((branchOption >= 1 && branchOption <= 5)); then
     break
   else
     echo "$(tput setaf 1) ******* Selected number is out of range. Try again!"
