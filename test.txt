@@ -1,3 +1,3 @@
-test1 F1-1, F1-2, F2-1, QA1-1
+test1 F1-1, F1-2, F2-1, QA1-1, QA3-2
 test2 F2-2, QA1-2
 test3 QA3-1
